@@ -1,4 +1,4 @@
-● Implement a file uploader to allow users to upload multiple documents (PDF, DOCX, TXT).
+● Implemented a file uploader to allow users to upload multiple documents (PDF, DOCX, TXT).
 ● Parse and preprocess the uploaded documents.
 ● Used a Large language model and a retrieval mechanism to augment the generation.
 ● Integrated with a document retrieval library to fetch relevant passages from the uploaded documents.
